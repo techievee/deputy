@@ -64,6 +64,10 @@ test-cov-html:
 	go tool cover -html=coverage.out
 	go tool cover -func=coverage.out
 
+code-coverage:
+	go get -t -v ./...
+    go test -race -coverprofile=coverage.txt -covermode=atomic
+
 bench:
 	go test -bench . ./...
 

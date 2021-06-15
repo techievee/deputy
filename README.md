@@ -1,6 +1,7 @@
 # Deputy 
 [![GitHub release](https://img.shields.io/github/tag/techievee/deputy.svg?label=latest)](https://github.com/techievee/deputy/relesases)
 [![Go Report Card](https://goreportcard.com/badge/github.com/techievee/deputy)](https://goreportcard.com/report/github.com/techievee/deputy)
+[![codecov](https://codecov.io/gh/techievee/deputy/branch/master/graph/badge.svg?token=JZCxoBlWiM)](https://codecov.io/gh/techievee/deputy)
 
 > Golang 1.16  | cobra , promptui CLI   | interactive and non-interactive mode 
 
